@@ -42,5 +42,8 @@ int main()
     vector<int> a = {1,5,4,8,10,2,6,9,12,11,3,7};
     vector<int> b = { 3,7,10,14,18,19,2,11,16,17,23,25 };
     int conteo = mergeSort(b,0,b.size()-1);
-    std::cout << conteo;
+    std::cout << conteo << std::endl;
+    conteo = mergeSort(a,0,a.size()-1);
+    std::cout << conteo << std::endl;
+    
 }
