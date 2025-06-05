@@ -1,4 +1,4 @@
 Integrantes: 
 
-- Rodrigo Silva Murillo
+- Rodrigo Silva Murillo (Primera Tarea)
 - José Gabriel Cornejo Castro
